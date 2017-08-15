@@ -1,3 +1,4 @@
 bin
 *.dSYM
 *.c.swp
+.Makefile.swp
